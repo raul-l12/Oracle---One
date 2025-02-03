@@ -5,7 +5,7 @@
 <h2>¿En que consiste la aplicación del desafío?</h2>
 la aplicación permite que los jugadores pueden escribir sus nombres y el programa elegira un nombre alegremente en forma de sorteo
 
-Lenguajes utilizados
+<h2>Lenguajes utilizados</h2>
 HTML5
 JavaScript
 CSS
